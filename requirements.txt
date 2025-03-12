@@ -1,0 +1,6 @@
+python_multipart-0.0.20
+tensorflow-2.18.0
+uvicorn-0.34.0
+pillow-11.1.0
+fastapi-0.115.8
+google_generativeai-0.8.4
